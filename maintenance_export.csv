@@ -1,0 +1,4 @@
+id,assetName,category,technicianEmail,maintenanceDate,cost,status,notes
+"1","Dell Latitude 5420","Laptop","tech1@example.com","2026-03-10T09:00:00.000Z",120,"Completed","Battery replaced and health checked."
+"2","HP ProLiant DL380","Server","ops@example.com","2026-04-05T12:30:00.000Z",450,"In Progress","Firmware update and storage diagnostics."
+"cfcc5f8e-6259-4a68-a439-9a79c27e2362","test","test","test@test.com","2025-12-12T00:00:00.000Z",123123,"In Progress","asdasdasdas"

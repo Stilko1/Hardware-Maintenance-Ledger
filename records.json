@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "assetName": "Dell Latitude 5420",
+    "category": "Laptop",
+    "technicianEmail": "tech1@example.com",
+    "maintenanceDate": "2026-03-10T09:00:00.000Z",
+    "cost": 120,
+    "status": "Completed",
+    "notes": "Battery replaced and health checked."
+  },
+  {
+    "id": "2",
+    "assetName": "HP ProLiant DL380",
+    "category": "Server",
+    "technicianEmail": "ops@example.com",
+    "maintenanceDate": "2026-04-05T12:30:00.000Z",
+    "cost": 450,
+    "status": "In Progress",
+    "notes": "Firmware update and storage diagnostics."
+  }
+
+]
